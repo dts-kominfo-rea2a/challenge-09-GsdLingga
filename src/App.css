@@ -1,4 +1,15 @@
 .App {
   text-align: center;
   display: flex;
+  flex-direction: column;
+  background-color: bisque;
+}
+
+h1,
+p {
+  margin: 5px;
+}
+
+.divider {
+  color: rgb(113, 131, 214);
 }
